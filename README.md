@@ -1,6 +1,6 @@
 # Node.js and Express.js API Endpoints
 
-This is my work assigned by [Route-Academy](https://www.linkedin.com/company/routeacademy/mycompany/) during learning front-end web development.
+This is my work assigned by [Route-Academy](https://www.linkedin.com/company/routeacademy/mycompany/) during learning backend web development.
 
 This repository contains code for Node.js and Express.js API endpoints. The API provides various endpoints to interact with users and posts data.
 
